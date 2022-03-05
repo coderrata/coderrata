@@ -1,9 +1,6 @@
 - 👋 Hi, I’m coderrata!
 
-- 👀 I;m interested in efficient technologies...efficienceies in workflows may be my biggest interest.
-- 🌱 I'm currently learning many languages and I must say the struggle is real.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I definitely like efficiency in a final product. Striving to do more it different ways.
 
 <!---
 coderrata/coderrata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
